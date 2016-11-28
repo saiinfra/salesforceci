@@ -1,1 +1,1 @@
-public class A1{}
+public class A1{String a;}
